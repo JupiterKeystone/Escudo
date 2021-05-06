@@ -27,9 +27,9 @@ Portions Copyright (c) 2012-2013 The Cryptonote developers.
 Escudo is a 100% community-sponsored endeavor. If you want to join our efforts, the easiest thing you can do is support the project financially. 
 Escudo, Monero and Bitcoin donations can be made to:
 
-X: N/A
-XMR: N/A
-BTC: N/A
+**X:** N/A
+**XMR:** 45bimbTXakUH8KFz7eMNrzPh8Rh6eJDeD98vWwuspTZPTWHGdUJPsmbiuZBBQq4EvAF2NPK29169MKD5bggZEK4gHxuhVmg
+**BTC:** N/A
 
 ## Introduction
 
