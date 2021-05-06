@@ -24,14 +24,12 @@ Portions Copyright (c) 2012-2013 The Cryptonote developers.
 Escudo is a 100% community-sponsored endeavor. If you want to join our efforts, the easiest thing you can do is support the project financially. 
 Escudo, Monero and Bitcoin donations can be made to:
 
-**Privacy:** Monero uses a cryptographically sound system to allow you to send and receive funds without your transactions being easily revealed on the blockchain (the ledger of transactions that everyone has). This ensures that your purchases, receipts, and all transfers remain private by default.
+**X:** N/A 
 
-**Security:** Using the power of a distributed peer-to-peer consensus network, every transaction on the network is cryptographically secured. Individual wallets have a 25-word mnemonic seed that is only displayed once and can be written down to backup the wallet. Wallet files should be encrypted with a strong passphrase to ensure they are useless if ever stolen.
-
-**Untraceability:** By taking advantage of ring signatures, a special property of a certain type of cryptography, Monero is able to ensure that transactions are not only untraceable but have an optional measure of ambiguity that ensures that transactions cannot easily be tied back to an individual user or computer.
-
-**Decentralization:** The utility of Monero depends on its decentralised peer-to-peer consensus network - anyone should be able to run the monero software, validate the integrity of the blockchain, and participate in all aspects of the monero network using consumer-grade commodity hardware. Decentralization of the monero network is maintained by software development that minimizes the costs of running the monero software and inhibits the proliferation of specialized, non-commodity hardware. 
 **XMR:** 45bimbTXakUH8KFz7eMNrzPh8Rh6eJDeD98vWwuspTZPTWHGdUJPsmbiuZBBQq4EvAF2NPK29169MKD5bggZEK4gHxuhVmg
+
+**BTC:** N/A
+
 
 ## Introduction
 Escudo is a private, secure, untraceable, decentralised digital currency.
