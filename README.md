@@ -14,3 +14,15 @@ Portions Copyright (c) 2012-2013 The Cryptonote developers.
 | Coveralls | [![Coveralls Status](https://coveralls.io/repos/github/monero-project/monero/badge.svg?branch=master)]()
 | License   | [![License](https://img.shields.io/badge/license-BSD3-blue.svg)]()
 
+## Supporting the project
+
+Escudo is a 100% community-sponsored endeavor. If you want to join our efforts, the easiest thing you can do is support the project financially. 
+Escudo, Monero and Bitcoin donations can be made to:
+
+X: N/A
+XMR: N/A
+BTC: N/A
+
+## Introduction
+
+Escudo is a private, secure, untraceable, decentralised digital currency.
