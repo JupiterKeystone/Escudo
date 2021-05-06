@@ -27,6 +27,10 @@ BTC: N/A
 
 Escudo is a private, secure, untraceable, decentralised digital currency.
 
+## License
+
+See [LICENSE](LICENSE).
+
 ## Scheduled software upgrades
 
 Escudo uses a fixed-schedule software upgrade (hard fork) mechanism to implement new features. This means that users of Escudo (end users and service providers) should run current versions and upgrade their software on a regular schedule. Software upgrades occur during the months of April and October. The required software for these upgrades will be available prior to the scheduled date. Please check the repository prior to this date for the proper Monero software version. Below is the historical schedule and the projected schedule for the next upgrade.
