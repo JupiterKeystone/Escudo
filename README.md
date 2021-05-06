@@ -14,6 +14,14 @@ Portions Copyright (c) 2012-2013 The Cryptonote developers.
 | Coveralls | [![Coveralls Status](https://coveralls.io/repos/github/monero-project/monero/badge.svg?branch=master)]()
 | License   | [![License](https://img.shields.io/badge/license-BSD3-blue.svg)]()
 
+## Development resources
+
+- Web: [google.com](https://google.com)
+- Forum: [google.com](https://google.com)
+- Mail: [dev@google.com](mailto:dev@google.com)
+- GitHub: [https://github.com/JupiterKeystone/Escudo](https://github.com/JupiterKeystone/Escudo)
+- IRC: [#Escudo](https://webchat.freenode.net/)
+
 ## Supporting the project
 
 Escudo is a 100% community-sponsored endeavor. If you want to join our efforts, the easiest thing you can do is support the project financially. 
@@ -39,3 +47,8 @@ Dates are provided in the format YYYY-MM-DD.
 | Software upgrade block height  | Date       | Fork version      | Minimum Escudo version | Recommended Escudo version | Details                                                                            |  
 | ------------------------------ | -----------| ----------------- | ---------------------- | -------------------------- | ---------------------------------------------------------------------------------- |
 |                                |            |                   |                        |                            |                                                                                    |
+
+
+
+## Release staging schedule and protocol
+Approximately three months prior to a scheduled software upgrade, a branch from master will be created with the new release version tag. Pull requests that address bugs should then be made to both master and the new release branch. Pull requests that require extensive review and testing (generally, optimizations and new features) should not be made to the release branch.
